@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Paw Heart Shelter Report MED"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "62d98e3e-aed2-41bf-906b-7e65e8eb464d"
+  }
+}
